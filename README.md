@@ -48,21 +48,14 @@ The dataset includes the following files:
 
 ## 🤖 Model Building
 
-Three main classification models were trained and tested:
-
-- Logistic Regression
-- Random Forest Classifier
-- XGBoost Classifier
+- LightGBM Regression
 
 **Performance Metrics**: Accuracy, Precision, Recall, F1-Score
 
 ---
 
 ## 📈 Results
-
-- **XGBoost** provided the highest accuracy among all models.
-- **Weather** and **qualifying position** were key factors influencing the final position.
-- Constructors also showed significant impact on results, especially top brands.
+- Unique ID and RMSE Values
 
 ---
 
